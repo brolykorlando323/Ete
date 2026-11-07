@@ -201,4 +201,4 @@ This repository serves as the official landing page for Été. The software is d
 **Get the most recent version of Été today!**
 
 ---
-**Last updated:** 2026-11-07 09:41:42 UTC
+**Last updated:** 2026-11-07 16:08:27 UTC
